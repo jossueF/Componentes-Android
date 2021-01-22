@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+    <!-- activity_main -->
+    <string name="str_request_permissions">Request Permissions</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment2</string>
+
+    <!-- activity_main -->
+    <string name="str_verde">Verde</string>
+    <string name="str_rojo">Rojo</string>
+
+    <!-- frag_main -->
+    <string name="title">Bienvenido</string>
+</resources>

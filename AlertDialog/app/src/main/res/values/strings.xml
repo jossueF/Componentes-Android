@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+
+    <!-- activity_main -->
+    <string name="dialog1_name">Dialog 1</string>
+    <string name="dialog2_name">Dialog 2</string>
+    <string name="dialog3_name">Dialog 3</string>
+    <string name="add_contact_name">Add Contact</string>
+    <string-array name="options">
+        <item>First item</item>
+        <item>Second item</item>
+        <item>Third item</item>
+    </string-array>
+</resources>
